@@ -1,0 +1,1 @@
+{"name":"Local: f","url":"/mnt/c/Users/Hanich/Desktop/comp_prog/comp2/f.cpp","tests":[{"id":1672166736291,"input":"3\n1 1\n3 1 2","output":""},{"id":1672167352534,"input":"7\n1 1 1 2 3 4\n10 1 2 5 6 4 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/c/Users/Hanich/Desktop/comp_prog/comp2/f.cpp","group":"local","local":true}
