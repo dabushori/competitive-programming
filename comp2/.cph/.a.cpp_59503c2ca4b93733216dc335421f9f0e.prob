@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"/mnt/c/Users/Hanich/Desktop/comp_prog/comp2/a.cpp","tests":[{"id":1672150078572,"input":"10 3\n1 3 4","output":"WLWWWWLWLW"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/c/Users/Hanich/Desktop/comp_prog/comp2/a.cpp","group":"local","local":true}
