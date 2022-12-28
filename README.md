@@ -2,7 +2,7 @@
 
 This repo is the code Team Rachel wrote for the 2 programming contests we had.
 
-The team includes [Nitay Reiter](https://github.com/NitayRe), Jonatan Langer and me.
+The team includes [Nitay Reiter](https://github.com/NitayRe), [Jonathan Langer](https://github.com/Jonathan-Langer) and me.
 
 We had two contests:
 
