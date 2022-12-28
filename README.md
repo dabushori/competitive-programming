@@ -8,7 +8,7 @@ There were two contests:
 
 The first contest contained 7 problems, and we managed to solve 3 of them and finish in the 2nd place. A partial solution for another problem (problem D) is supplied (the solution doesn't work but it is the correct idea). [This](https://vjudge.net/contest/535909#rank) is the contest's result page.
 
-The second contest contained 9 problems, and we managed to solve 8 of them and finish in the 1st place. A solution to another problem that we thought of but didn't have time to program is now programmed (problem D). [This](https://vjudge.net/contest/535968#rank) is the contest's result page.
+The second contest contained 9 problems, and we managed to solve 8 of them and finish in the 1st place. A solution to another problem that we thought of but didn't have time to program is now programmed (problem F). [This](https://vjudge.net/contest/535968#rank) is the contest's result page.
 
 The solutions for the first contest can be found in `comp1`, and the solutions for the second contest can be found in `comp2`.
 
