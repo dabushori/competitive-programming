@@ -14,6 +14,6 @@ In this repo our solutions to the problems we solved can be found. There are als
 
 The solutions for the first contest can be found in `comp1`, and the solutions for the second contest can be found in `comp2`.
 
-You can also run some tests using the [CPH vs-code extension](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper) (you'll need to open the `comp1` or `comp2` directories with vs-code and then open a cpp file to view the tests).
+You can also run some tests using the [CPH vs-code extension](https://marketplace.visualstudio.com/items?itemName=DivyanshuAgrawal.competitive-programming-helper) (you'll need to open the `comp1` or `comp2` directories with vs-code and then open a cpp file to view the tests, and maybe play a little bit with the config files).
 
 To view the problems you can open the contests' links above.
